@@ -3,9 +3,8 @@ title: "[토비의 스프링] 1장. 오브젝트와 의존관계 - 다시 자바
 date: 2026-02-18 16:00:00 +0900
 categories: [Backend, Spring]
 tags: [spring, java, oop, pojo]
-img_path: /assets/img/posts/toby-spring/
 image:
-  path: object-intro-thumbnail.png # 스프링 로고나 오브젝트 관련 이미지를 활용하세요
+  path: /assets/img/posts/spring/toby-logo.png
 ---
 
 > "스프링이 가장 관심을 많이 두는 대상은 오브젝트다."
